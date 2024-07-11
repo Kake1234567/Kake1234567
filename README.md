@@ -6,7 +6,7 @@ I like coding and designing UI's
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node&logoColor=white&style=plastic)
 ![Express](https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white&style=plastic)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=plastic)
 ![Phaser.js](https://img.shields.io/badge/-Phaser-purple?logo=phaser&logoColor=white&style=plastic)
