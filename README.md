@@ -12,6 +12,7 @@ I like coding and designing UI's
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
       <img src="https://phaser.io/images/img.png" alt="Phaser.js" width="40" height="40"/>
    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="60">
+   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo_blue-transparent-300x75.png" alt="MariaDB" width="60">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
