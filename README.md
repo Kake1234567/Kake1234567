@@ -1,4 +1,4 @@
-I like coding and designing UI's
+I like coding and UI/UX designing
 ## Here are some technologies I use:
 <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
